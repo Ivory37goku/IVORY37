@@ -1,8 +1,8 @@
 # м3υ_√_ᴵⱽᴼᴿʸ³⁷ - IPTV Server Verifier
 
-Herramienta de verificación para servidores IPTV (XUI, Xtream Codes).
+Herramienta de verificaciÃ³n para servidores IPTV
 
-## Características
-- 🔍 Verificación de credenciales
-- 🌐 Escaneo de espejos
-- 🔄 Soporte para proxies
+## CaracterÃ­sticas
+- ð��� VerificaciÃ³n de credenciales
+- ð��� Escaneo de espejos
+- ð��� Soporte para proxies
